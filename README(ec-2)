@@ -1,0 +1,11 @@
+#EC2 launching
+Log in to AWS Console and go to EC2 Service.
+Click "Launch Instance".
+Choose AMI (e.g., Amazon Linux, Ubuntu, Windows).
+Select Instance Type (e.g., t2.micro for free-tier).
+Create/Use Key Pair for secure login.
+Configure Network Settings (VPC, Subnet, Security Group).
+Set Storage (e.g., 8GB SSD).
+Review Settings and Launch Instance.
+Connect using SSH (Linux) or RDP (Windows).
+Verify the instance is running and accessible.
